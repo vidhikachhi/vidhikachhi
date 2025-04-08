@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **vidhikachhi/vidhikachhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vidhi Kachhi</h1>
-<h3 align="center">A passionate frontend developerper from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhikachhi" alt="vidhikachhi" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +32,3 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhikachhi&show_icons=true&locale=en&layout=compact" alt="vidhikachhi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhikachhi&show_icons=true&locale=en" alt="vidhikachhi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhikachhi&" alt="vidhikachhi" /></p>
