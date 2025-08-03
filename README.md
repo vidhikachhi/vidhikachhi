@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **JobHunt**
 
-- 🌱 I’m currently learning **Machine Learning and Data Analytics**
+- 🌱 I’m currently learning **ML and Data Analytics Concepts**
 
 - 👯 I’m looking to collaborate on **InstantCare**
 
 - 📫 How to reach me **vidhikachhi93@gmail.com**
-
-- 📄 Know about my experiences [vidhi-s-portfolio.vercel.app](vidhi-s-portfolio.vercel.app)
 
 - ⚡ Fun fact **I can read your mind :)**
 
