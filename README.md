@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vidhi Kachhi</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **JobHunt**
+- 🔭 I’m currently working on **JobHunt-A place to explore jobs**
 
-- 🌱 I’m currently learning **ML and Data Analytics Concepts**
+- 🌱 I’m currently learning **Java and ML Concepts**
 
-- 👯 I’m looking to collaborate on **InstantCare**
+- 👯 I’m looking to collaborate on **InstantCare-Medical emergency web application**
 
 - 📫 How to reach me **vidhikachhi93@gmail.com**
 
-- ⚡ Fun fact **I can read your mind :)**
+- ⚡ Fun fact **I’m pretty good at reading faces, sometimes I know more than you think 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
