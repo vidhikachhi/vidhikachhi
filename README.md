@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vidhikachhi93@gmail.com**
 
-- ⚡ Fun fact **I’m pretty good at reading faces, sometimes I know more than you think 😉**
+- ⚡ Fun fact **I’m pretty good at reading people, sometimes I know more than you think 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
